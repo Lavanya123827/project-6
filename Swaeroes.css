@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    background-image: url("https://yt3.ggpht.com/a-/AAuE7mACY16-vEvgqCkbpfWWxRi95wQvx4cwDwgmYw=s900-mo-c-c0xffffffff-rj-k-no");
+    text-align: center;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.main-heading {
+    color: red;
+    font-family: "Caveat";
+    font-size: 38px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+.paragraph {
+    color:#FFFFFF;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+
+}
